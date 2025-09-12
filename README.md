@@ -1,7 +1,7 @@
 # Repositório Scripts
 <br>
 
- ## Finalidade do Repositório
+ ## Finalidade do Repositório 🧭
 <br>
 Este repositório está sendo desenvolvido exclusivamente para abrigar os projetos desenvolvidos durante o curso de programação em scripts. Durante o decorrer do curso serão desenvolvidas atividades que envolvem o desenvolvimento de plataformas web com o objetivo de aplicar conceitos fundamentais de automação, lógica de programação e manipulação de dados utilizando linguagens de script.
 
